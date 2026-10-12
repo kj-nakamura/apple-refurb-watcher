@@ -7,17 +7,9 @@
     "name": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
     "price": 190800
   },
-  "G1KZLJ/A": {
-    "name": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
-    "price": 329800
-  },
   "FCYT4J/A": {
     "name": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
     "price": 175800
-  },
-  "G1CF5J/A": {
-    "name": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、10Gb Ethernet",
-    "price": 160800
   },
   "FU9E3J/A": {
     "name": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
@@ -43,17 +35,9 @@
     "name": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
     "price": 482800
   },
-  "G1JV7J/A": {
-    "name": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
-    "price": 405800
-  },
   "G1JVCJ/A": {
     "name": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
     "price": 451800
-  },
-  "G1KZAJ/A": {
-    "name": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
-    "price": 282800
   },
   "G1KZMJ/A": {
     "name": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
@@ -70,10 +54,6 @@
   "G1JV8J/A": {
     "name": "Mac mini [整備済製品] 14コアCPUと20コアGPUを搭載したApple M4 Proチップ、10Gb Ethernet",
     "price": 420800
-  },
-  "G1CF9J/A": {
-    "name": "Mac mini [整備済製品] 10コアCPUと10コアGPUを搭載したApple M4チップ、ギガビットEthernet",
-    "price": 144800
   },
   "G1JV1J/A": {
     "name": "Mac mini [整備済製品] 12コアCPUと16コアGPUを搭載したApple M4 Proチップ、ギガビットEthernet",
